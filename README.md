@@ -14,12 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My Stats
-
-⚡ [Skyline](https://skyline.github.com/sandeepruttala/2022)
-
 ![](https://komarev.com/ghpvc/?username=sandeepruttala&color=blueviolet)
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeepruttala&show_icons=true&theme=radical) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepruttala&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
