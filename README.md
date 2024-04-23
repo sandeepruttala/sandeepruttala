@@ -19,10 +19,11 @@ My Stats
 
 ![](https://komarev.com/ghpvc/?username=sandeepruttala&color=blueviolet)
 
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saikiranreddyappidi&show_icons=true&theme=radical) &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saikiranreddyappidi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeepruttala&show_icons=true&theme=radical) &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepruttala&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
 My Competitive Profile
 
 ![](https://leetcard.jacoblin.cool/saikiranreddyappidi?theme=dark&ext=contest)
